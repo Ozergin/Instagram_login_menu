@@ -1,0 +1,15 @@
+namespace e_devlet_proje
+{
+    public partial class instagram_project : Form
+    {
+        public instagram_project()
+        {
+            InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
